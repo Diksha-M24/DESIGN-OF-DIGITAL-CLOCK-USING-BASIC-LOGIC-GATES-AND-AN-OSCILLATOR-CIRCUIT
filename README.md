@@ -14,7 +14,8 @@ To design and implement a digital clock circuit using an oscillator as the time-
 ![THEORY 2](https://github.com/user-attachments/assets/e385a3b5-42a1-425c-94dd-2b14e974fab5)
 
 
-# PROCEDURE 
+# PROCEDURE
+
 ![PRIOCEDURE](https://github.com/user-attachments/assets/8bc44153-6160-42c7-80ff-0e38383f34e0)
 
 # BLOCK DIAGRAM
