@@ -6,30 +6,32 @@ To design and implement a digital clock circuit using an oscillator as the time-
 
 # COMPONENT REQUIRED
 
-![COMPONENT](https://github.com/user-attachments/assets/56833273-c854-4ad4-a3ab-18f6deec50d5)
+![WhatsApp Image 2025-11-26 at 13 28 10_f05b806f](https://github.com/user-attachments/assets/979bf841-421f-47fb-bb6e-964bad3adc74)
+
 
 # THEORY 
 
-![COMPONENT](https://github.com/user-attachments/assets/89705e02-8f46-4761-9a24-627521f72bc2)
-![THEORY 2](https://github.com/user-attachments/assets/e385a3b5-42a1-425c-94dd-2b14e974fab5)
+![WhatsApp Image 2025-11-26 at 13 28 35_13ee8400](https://github.com/user-attachments/assets/c2e862b0-8d86-4bd1-8055-11787452c3e9)
+![WhatsApp Image 2025-11-26 at 13 29 14_9c5c1274](https://github.com/user-attachments/assets/1193e6d6-b57a-462d-bbdc-b9681028da3f)
+
 
 
 # PROCEDURE
+![WhatsApp Image 2025-11-26 at 13 29 32_a0d3e5b8](https://github.com/user-attachments/assets/f9539db1-663e-42eb-8001-6e44f7590efd)
+![WhatsApp Image 2025-11-26 at 13 30 03_9aad8511](https://github.com/user-attachments/assets/3c0d0a9c-f1ca-4b6d-aecd-c7fa0365c719)
 
-![PRIOCEDURE](https://github.com/user-attachments/assets/8bc44153-6160-42c7-80ff-0e38383f34e0)
 
 # BLOCK DIAGRAM
+![WhatsApp Image 2025-11-26 at 13 31 17_632bebeb](https://github.com/user-attachments/assets/a5cb5c37-caf1-4bb7-90b8-21f2b36cf23c)
 
-![WhatsApp Image 2025-11-21 at 20 38 04_55a52288](https://github.com/user-attachments/assets/e683e72f-c552-455b-908d-96ce6a130c6a)
 
 
 # OBSERVATION 
-
-![WhatsApp Image 2025-11-21 at 20 38 05_a3c6ee75](https://github.com/user-attachments/assets/9c8dbb7e-a829-4a11-ace4-29e5c2561004)
+![WhatsApp Image 2025-11-26 at 13 30 25_91e827d9](https://github.com/user-attachments/assets/3ddf6766-b1fd-4e34-89ed-75cbd07d2cf6)
 
 
 # RESULT
 
-![RESULT](https://github.com/user-attachments/assets/e0766eed-8ec8-49d0-bccb-955f6f2249ed)
+![WhatsApp Image 2025-11-26 at 13 30 57_5d515f70](https://github.com/user-attachments/assets/dd4d5fd7-4fbe-4789-96eb-a5e254d786d8)
 
 
